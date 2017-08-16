@@ -1,0 +1,1 @@
+java -cp rmi-interfaces-0.0.1.jar:rmi-client-0.0.1.jar client.RmiClient 1>1.txt
